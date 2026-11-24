@@ -20,8 +20,8 @@ A live prompt-cache watchdog, quota countdown statusline, and native developer m
 Inside any active Claude Code terminal, run:
 
 ```bash
-# 1. Add the Amvotech marketplace
-/plugin marketplace add amvotech/claude-plugins
+# 1. Add the L2Cache marketplace
+/plugin marketplace add l2cache-app/claude-plugins
 
 # 2. Install the L2Cache plugin
 /plugin install l2cache
@@ -54,7 +54,7 @@ When idle for over 60 minutes, the statusline automatically switches to:
 
 ## Companion Tools
 
-* **[cold-resume-guard](https://github.com/amvotech/claude-cold-resume-guard):** External CLI guard preventing cold 175k-token session launches before Claude starts (`brew install amvotech/tap/cold-resume-guard`).
+* **[cold-resume-guard](https://github.com/l2cache-app/claude-cold-resume-guard):** External CLI guard preventing cold 175k-token session launches before Claude starts (`brew install l2cache-app/tap/cold-resume-guard`).
 * **[L2Cache for Mac](https://l2cache.app):** Native macOS developer memory, smart clipboard, and AI coding session history.
 
 ---

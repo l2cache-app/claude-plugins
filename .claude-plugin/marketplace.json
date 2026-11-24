@@ -17,7 +17,7 @@
       "category": "productivity",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/amvotech/claude-plugins.git",
+        "url": "https://github.com/l2cache-app/claude-plugins.git",
         "path": "plugins/l2cache",
         "ref": "main"
       }
