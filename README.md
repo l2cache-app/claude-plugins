@@ -1,6 +1,6 @@
-# Amvotech Plugins for Claude Code
+# L2Cache Plugins for Claude Code
 
-Official developer productivity plugins and prompt-caching tools for [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code), built by [Amvotech](https://amvo.store) & [L2Cache](https://l2cache.app).
+Official developer productivity plugins and prompt-caching tools for [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code), built by [L2Cache](https://l2cache.app).
 
 ---
 
