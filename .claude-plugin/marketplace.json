@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "amvotech-plugins",
+  "version": "1.0.0",
+  "description": "Official Amvotech plugins for Claude Code — Developer Memory, Prompt Cache Guards, and Token Savers",
+  "owner": {
+    "name": "Amvotech",
+    "email": "support@amvo.store"
+  },
+  "plugins": [
+    {
+      "name": "l2cache",
+      "description": "Live prompt-cache watchdog, quota countdown statusline, and native developer memory for Claude Code",
+      "author": {
+        "name": "Amvotech"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/amvotech/claude-plugins.git",
+        "path": "plugins/l2cache",
+        "ref": "main"
+      }
+    }
+  ]
+}

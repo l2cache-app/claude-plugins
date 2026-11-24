@@ -1,0 +1,11 @@
+{
+  "name": "l2cache",
+  "displayName": "L2Cache Developer Memory & Cache Guard",
+  "version": "1.0.0",
+  "description": "Live prompt-cache watchdog, quota countdown statusline, and native developer memory for Claude Code",
+  "author": {
+    "name": "Amvotech"
+  },
+  "homepage": "https://l2cache.app",
+  "repository": "https://github.com/amvotech/claude-plugins"
+}

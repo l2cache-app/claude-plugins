@@ -1,0 +1,11 @@
+{
+  "description": "L2Cache Idle Watchdog and Prompt Cache Status Hooks",
+  "hooks": {
+    "session.start": [
+      {
+        "type": "command",
+        "command": "scripts/statusline.sh"
+      }
+    ]
+  }
+}
